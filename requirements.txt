@@ -1,0 +1,14 @@
+streamlit
+langchain 
+google-generativeai 
+newsapi-python 
+requests
+langchain-google-genai 
+google.genai      
+bcrypt
+GoogleNews
+spacy
+scikit-learn
+numpy
+python-dotenv
+pandas

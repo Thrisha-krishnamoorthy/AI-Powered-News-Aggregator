@@ -2,8 +2,8 @@ from newsapi import NewsApiClient
 import requests
 import json
 
-NEWS_API_KEY = "3635d28530f843a0aa7afa2a0e22bd7c"
-NEWSDATA_API_KEY = "pub_31653e9e3a4e4c548c22f693ec7de45b72dfa"
+NEWS_API_KEY = "your api key"
+NEWSDATA_API_KEY = "your api key"
 
 def test_newsapi(query="pakistan india attacks"):
     """Test NewsAPI functionality"""

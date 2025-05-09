@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import sqlite3
 
-NEWS_API_KEY = "89fdac85a6b345c094fbf3b1582be178"  # Your actual key
+NEWS_API_KEY = " Your actual key"  
 
 TOPIC_OPTIONS = [
     "business", "entertainment", "general", "health",

@@ -3,8 +3,8 @@ import requests
 import google.generativeai as genai
 
 # --- API Keys ---
-SERPAPI_KEY = "50c5b82b39f2c0da7f5a43b261d8800ba05c466117583beb249b293f072db9ed"  # Replace with your key from https://serpapi.com/manage-api-key
-GENAI_API_KEY = "AIzaSyD_MzbcVf7HlCHzJRQJoByKAgf9w9x-HBo"  # From https://makersuite.google.com/app/apikey
+SERPAPI_KEY = "api key"  # Replace with your key from https://serpapi.com/manage-api-key
+GENAI_API_KEY = "api key"  # From https://makersuite.google.com/app/apikey
 
 # --- Configure Gemini ---
 genai.configure(api_key=GENAI_API_KEY)
